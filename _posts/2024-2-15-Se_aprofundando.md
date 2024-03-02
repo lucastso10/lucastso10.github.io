@@ -8,6 +8,7 @@ Nessa semana os alunos foram orientados a realizar uma pesquisa sobre diferente 
 # Computação Gráfica 
 
 # Processamento de imagens
+## Segmentação por crescimento de região
 
 A segmentação por crescimento de região é uma técnica de processamento de imagens onde os pixels são agrupados em regiões com base em critérios de similaridade. 
 
