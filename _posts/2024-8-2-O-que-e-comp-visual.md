@@ -1,6 +1,12 @@
 ---
 layout: post
-title: O que você acha que é computação visual?
+title: You're up and running!
 ---
 
-Para começar nossa aventura pelo mundo de computação visual, os alunos foram orientados a escrever um texto sobre o que eles achavam que a matéria iria cobrir. Aqui está o que cada um de nosso grupo escreveu:
+Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+
+![_config.yml]({{ site.baseurl }}/images/config.png)
+
+The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+
+Para começar nossa aventura pelo mundo de computação visual, os alunos foram orientados a escrever um texto sobre o que eles achavam que a matéria iria cobrir. Aqui está o que cada um de nosso grupo escreveu.
