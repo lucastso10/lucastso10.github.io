@@ -22,3 +22,15 @@ Escolhemos a segmentação por crescimento de região por conta de sua aplicaç�
 [Fonte](https://www.dpi.inpe.br/spring/portugues/tutorial/segmentacao.html)
 
 # Visão Computacional
+### Rastreamento de Movimento
+
+O rastreamento de movimento na visão computacional é a técnica de seguir e analisar o movimento de objetos ou pessoas em vídeos ou sequências de imagens. Essencial em muitas aplicações, desde análise de movimento humano em esportes até animação de personagens em jogos, seu objetivo é monitorar a trajetória e a posição dos objetos ao longo do tempo para extrair informações dinâmicas da cena.
+
+Há diversas abordagens para o rastreamento de movimento, incluindo métodos baseados em modelos e em características visuais. Os métodos baseados em modelos usam modelos matemáticos para prever a posição futura dos objetos com base em seu movimento passado, enquanto os métodos baseados em características visuais identificam pontos de referência nos objetos e os acompanham ao longo do tempo.
+
+Amplamente usado em aplicações como análise de movimento humano, segurança e monitoramento de tráfego, o rastreamento de movimento enfrenta desafios como oclusão e mudanças de iluminação. Pesquisas contínuas buscam aprimorar a precisão e a robustez desses sistemas em diferentes cenários e condições.
+
+
+Escolhemos esse tema devido a familiaridade que temos por participarmos do Hackathon onde a ideia principal era o rastreamento de movimento dentro da Universidade Presbiteriana Mackenzie.
+
+[Fonte](https://web.fe.up.pt/~rpinho/Introducao_jt.pdf)
