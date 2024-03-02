@@ -13,4 +13,6 @@ um mundo 3d em uma tela 2d.
 
 # Mateus Fernandes Castanharo
 
-escrever
+Minha primeira ideia sobre computação visual foi reconhecimento e rastreamento de pessoas ou objetos.
+Durante as aulas acredito que veremos tecnicas e algoritimos que permitem o computador entender o mundo
+ao ser redor.
