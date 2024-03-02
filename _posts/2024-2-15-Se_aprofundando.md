@@ -18,6 +18,6 @@ O algoritmo continua iterativamente até que a região esteja completa ou não h
 
 Escolhemos a segmentação por crescimento de região por conta de sua aplicação nas análise de imagens de satélites, utilizado para o mapeamento terrestre por exemplo. Esse método segmenta diferentes tipos de cobertura terrestre, como florestas, corpos de água e áreas urbanas.
 
-(https://www.dpi.inpe.br/spring/portugues/tutorial/segmentacao.html)
+https://www.dpi.inpe.br/spring/portugues/tutorial/segmentacao.html
 
 # Visão Computacional
