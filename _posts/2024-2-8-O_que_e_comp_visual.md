@@ -1,12 +1,16 @@
 ---
 layout: post
-title: Teste
+title: O que é computação visual?
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Para começar nossa aventura pelo mundo de computação visual, os alunos foram orientados a escrever um texto sobre o que eles achavam que a matéria iria cobrir. Aqui está o que cada um de nosso grupo escreveu:
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+# Lucas Teixeira Soares
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Quando eu li computação visual eu pensei mais pra área de 3d como shaders, modelos 3d, poligonos, etc.
+Talvez essa matéria mergulhe um pouco mais na GPU, falando como que ela faz calculos para projetar
+um mundo 3d em uma tela 2d.
 
-Para começar nossa aventura pelo mundo de computação visual, os alunos foram orientados a escrever um texto sobre o que eles achavam que a matéria iria cobrir. Aqui está o que cada um de nosso grupo escreveu.
+# Mateus Fernandes Castanharo
+
+escrever
