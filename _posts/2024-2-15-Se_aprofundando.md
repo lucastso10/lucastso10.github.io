@@ -5,7 +5,19 @@ title: Semana 2 - Se aprofundando
 
 Nessa semana os alunos foram orientados a realizar uma pesquisa sobre diferente áreas da computação visual.
 
-# Computação Gráfica 
+# Computação Gráfica
+
+Computação gráfica é uma área da computação visual dedicada a criar imagens em geral, com várias aplicações, como jogos, CGI em filmes, simulações, entre outras.
+
+### Jogos
+
+A computação gráfica desempenha um papel fundamental nos jogos, sendo a área onde ela é mais estudada e desenvolvida.
+
+Ao longo dos anos, surgiram várias tecnologias para auxiliar na renderização em tempo real dos objetos em jogos. Algumas delas incluem shaders, que são algoritmos que controlam como um objeto ou textura se comportará em tempo real, sendo essenciais para criar efeitos como sombras, reflexos, iluminação, etc. Outro exemplo de tecnologia é o shadow mapping, no qual as sombras dos objetos no programa são previamente renderizadas para economizar poder de processamento em tempo real, entre várias outras.
+
+### Animação
+
+Outra área muito importante da computação gráfica é a animação, que possui várias técnicas como rigging e interpolação, que ajudam a criar animações mais fluidas e naturais.
 
 # Processamento de imagens
 ### Segmentação por crescimento de região
