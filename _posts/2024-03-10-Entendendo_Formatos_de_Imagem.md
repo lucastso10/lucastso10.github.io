@@ -31,4 +31,4 @@ Lucas Teixeira Soares
 
 Mateus Fernandes Castanharo
 
-*Fonte: [https://www.w3.org/TR/PNG-Compression.html](https://www.w3.org/TR/PNG-Compression.html)
+*Fonte: [https://www.w3.org/TR/PNG-Compression.html](https://www.w3.org/TR/PNG-Compression.html)*
