@@ -16,11 +16,11 @@ A estrutura de uma imagem PNG pode ser observada na imagem abaixo:
 
 ### Header
 
-O Header possui informações como o tamanho, filtros, cores e compressão que a imagem utiliza.
+O Header possui informações como o tamanho, filtros, cores e o tipo de compressão que a imagem utiliza.
 
 ### Data
 
-A secção Data no arquivo possui não só os valores individuais de cada pixel, mas támbem informações de como esses dados estão comprimidos no formato "zlib". Dentro desse formato são especificadas flags de execução, como, tamanho de 32K para o Protocolo de Janelas Deslizantes(window size), uma flag de processo de descompressão de uma stream de bits, bits de verificação adicionais, e por fim, um checksum onde é verificado se o processo de descompressão de dados foi realizada com exito. Em seguida temos as informações sobre o processamento da imagem, como, o último bloco acessado, o tipo e o tamanho do bloco, e informações sobre os pixels, e filtros. No final dessa bloco, a função do CRC32 é garantir que a integridade do arquivo.
+A secção Data no arquivo possui não só os valores individuais de cada pixel, mas támbem informações de como esses dados estão comprimidos no formato "zlib". Dentro desse formato são especificadas flags de execução, como, tamanho de 32K para o Protocolo de Janelas Deslizantes(window size), uma flag de processo de descompressão de uma stream de bits, bits de verificação adicionais, e por fim, um checksum onde é verificado se o processo de descompressão de dados foi realizada com exito. Em seguida temos as informações sobre o processamento da imagem, como, o último bloco acessado, o tipo e o tamanho do bloco, e informações sobre os pixels, e filtros. No final desse bloco, a função do CRC32 é garantir a integridade do arquivo.
 
 ### End
 
