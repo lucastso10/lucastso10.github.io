@@ -23,3 +23,6 @@ e todas são usadas para renderizar superfícies tridimensionais. Já para as di
 é calculada nos vértices dos polígonos. A cor resultante é então interpolada entre os vértices ao longo da superfície do polígono e na técnica de Phong, a iluminação é calculada para cada pixel, 
 utilizando normais interpoladas de vértices. Outro quesito é a transição de cores, para a técnica Toon, as transições entre diferentes níveis de brilho são abruptas, criando um visual estilizado e gráfico, contudo, para as técnicas de
 Gourand e Phong as transições de cor são extremamente suaves e realistas.
+
+![image](https://github.com/lucastso10/lucastso10.github.io/assets/84486266/cdf7dc8f-d265-4945-89f1-88dbc31b211c)
+*Image de comparação do shader Universal RP da Unity com o shader UniToon encontrado nesse link https://github.com/yoship1639/UniToon*
