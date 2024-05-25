@@ -25,4 +25,4 @@ utilizando normais interpoladas de vértices. Outro quesito é a transição de 
 Gourand e Phong as transições de cor são extremamente suaves e realistas.
 
 ![image](https://github.com/lucastso10/lucastso10.github.io/assets/84486266/cdf7dc8f-d265-4945-89f1-88dbc31b211c)
-*Image de comparação do shader Universal RP da Unity com o shader UniToon encontrado nesse link https://github.com/yoship1639/UniToon*
+*Image de comparação do shader Universal RP da Unity com o shader UniToon encontrado nesse [link](https://github.com/yoship1639/UniToon)*
