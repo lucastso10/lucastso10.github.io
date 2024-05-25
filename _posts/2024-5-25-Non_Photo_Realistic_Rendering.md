@@ -3,7 +3,10 @@ layout: post
 title: Semana 16 - Non Photo Realistic Rendering
 ---
 
-Para começar nossa aventura pelo mundo de computação visual, os alunos foram orientados a escrever um texto sobre o que eles achavam que a matéria iria cobrir. Aqui está o que cada um de nosso grupo escreveu:
+Normalmente na área de computação visual, estamos sempre procurando algoritmos para alcançar scenários
+cada vez mais proximos da realidade. Pórem, algumas vezes podemos querer tomar a liberdade artistica
+para fazermos algo que não é realistico, essas tecnicas são chamadas de NPR (Non Photo Realistic Rendering)
+. Uma das técnicas mais utilizadas nesse ramo é o de *toon/cel shading*.
 
 # Lucas Teixeira Soares
 
